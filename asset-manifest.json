@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/dilsel-manzara/static/css/main.2244db6e.css",
-    "main.js": "/dilsel-manzara/static/js/main.c4f5aa86.js",
-    "index.html": "/dilsel-manzara/index.html",
-    "main.2244db6e.css.map": "/dilsel-manzara/static/css/main.2244db6e.css.map",
-    "main.c4f5aa86.js.map": "/dilsel-manzara/static/js/main.c4f5aa86.js.map"
+    "main.css": "/dilsel-manzara-web/static/css/main.2244db6e.css",
+    "main.js": "/dilsel-manzara-web/static/js/main.c4f5aa86.js",
+    "index.html": "/dilsel-manzara-web/index.html",
+    "main.2244db6e.css.map": "/dilsel-manzara-web/static/css/main.2244db6e.css.map",
+    "main.c4f5aa86.js.map": "/dilsel-manzara-web/static/js/main.c4f5aa86.js.map"
   },
   "entrypoints": [
     "static/css/main.2244db6e.css",
