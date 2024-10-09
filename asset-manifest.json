@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dilsel-manzara/static/css/main.2244db6e.css",
+    "main.js": "/dilsel-manzara/static/js/main.c4f5aa86.js",
+    "index.html": "/dilsel-manzara/index.html",
+    "main.2244db6e.css.map": "/dilsel-manzara/static/css/main.2244db6e.css.map",
+    "main.c4f5aa86.js.map": "/dilsel-manzara/static/js/main.c4f5aa86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2244db6e.css",
+    "static/js/main.c4f5aa86.js"
+  ]
+}
